@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "inlined",
@@ -46,12 +46,12 @@
       "icons": [],
       "images": [
         {
-          "id": "NR5H8AnzDNd7",
+          "id": "C82DaWvArzTM",
           "name": "Home Screeen",
           "filePath": "plasmic/website_starter/images/homeScreeen.png"
         },
         {
-          "id": "pxdOJd_2QnBF",
+          "id": "e4SDNnLB1gmW",
           "name": "Layer_x0020_1",
           "filePath": "plasmic/website_starter/images/layerX00201.svg"
         }

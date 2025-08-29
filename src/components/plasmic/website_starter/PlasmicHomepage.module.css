@@ -59,16 +59,11 @@
   transform: translate(0px, 0.0005000000237487257px);
   width: 430px;
   height: 285.9992980957031px;
+  display: block;
   position: absolute;
   top: 0px;
   left: 0px;
-  display: none;
 }
 .img > picture > img {
   object-fit: cover;
-}
-@media (min-width: 0px) and (max-width: 768px) {
-  .img {
-    display: block;
-  }
 }
